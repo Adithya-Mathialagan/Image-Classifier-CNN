@@ -1,5 +1,7 @@
 This project uses Convolutional Neural Networks to classify an input test image as either Happy or Sad.
 
+Dataset: https://drive.google.com/drive/folders/10KybU0Kp4vSM9nGw9I0YzMny8LHVZTWN?usp=sharing
+
 Steps Involved:
 
 1. Install Dependencies.
